@@ -1,3 +1,6 @@
+Please compare with the [develop branch](https://github.com/dmytro-p-test/opening_hours/tree/develop)
+it contains refactored version
+
 ## Description
 opening_hours is a test application for
 - structure of opening_hours [OpenStreetMap tag](https://wiki.openstreetmap.org/wiki/Key:opening_hours)

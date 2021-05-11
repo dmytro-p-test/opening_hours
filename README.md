@@ -1,5 +1,5 @@
 Please compare with the [develop branch](https://github.com/dmytro-p-test/opening_hours/tree/develop)
-it contains refactored version
+it contains refactored, runnable version
 
 ## Description
 opening_hours is a test application for

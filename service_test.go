@@ -1,1 +1,0 @@
-package opening_hours
